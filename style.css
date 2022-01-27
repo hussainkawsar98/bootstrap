@@ -1,0 +1,10 @@
+.button.btn {
+    line-height: 2.5;
+    background-color: #e91e63;
+    border: 1px solid #e91e63;
+    padding: 10px 30px;
+    font-size: 1.5rem;
+    border-radius: 0px;
+    text-transform: uppercase;
+    color: #fff;
+}
